@@ -4,6 +4,32 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2019/09/12/cp_and_mip/"/>
+      <url>/2019/09/12/cp_and_mip/</url>
+      
+        <content type="html"><![CDATA[<h1><span id="integrating-constraint-programming-and-integer-programming">Integrating Constraint Programming and Integer Programming</span><a href="#integrating-constraint-programming-and-integer-programming" class="header-anchor">#</a></h1><p><em>I am also a newbee in the research on Constraint Programming (CP) and Integer Programming (IP), but they are both pretty important models on working for scheduling problems. I try to write what I have understood within these fields. If there exist some problems, mistakes and questions, please do not hesitate to contact me.</em> </p><p>During working on scheduling problems, our focus is put on the black dot in the following figure. Its reason lies within the fact that real-world industrial problems have very large scale variables/constraints to be solved/satisfied.</p><p>In the midst of search a trial soltuion is found to be unsatisfactory,</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2019/09/10/learning_to_choose/"/>
+      <url>/2019/09/10/learning_to_choose/</url>
+      
+        <content type="html"><![CDATA[<h1><span id="learning-when-to-use-given-algorithms-i">Learning When to Use Given Algorithms (I)</span><a href="#learning-when-to-use-given-algorithms-i" class="header-anchor">#</a></h1><p>There have been many efficient algorithms for combinatorial optimization, especially in small scale ones. </p><p><strong>Learning to Perform Local Rewriting for Combinatorial Optimization</strong></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello world</title>
       <link href="/2019/09/08/hello-world/"/>
       <url>/2019/09/08/hello-world/</url>
